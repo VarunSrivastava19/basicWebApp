@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "tsc": "^2.0.4"
+  }
+}
